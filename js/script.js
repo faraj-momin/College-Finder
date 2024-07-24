@@ -98,7 +98,7 @@ const colleges = [
 
     { name: "Shree L.R. Tiwari College of Engineering", description: "An engineering college in Mumbai.", courses: "B.Tech, M.Tech", contact: "022-65657715", address: "Mira Road (E), Thane, Maharashtra 401107", image: "images/lrtiwari.jpg", website: "http://www.slrtce.in" },
 
-    { name: "MIT Academy of engineering, Alandi", description: "An engineering college in Pune.", courses: "B.Tech, M.Tech", contact: "020-30273400", address: "Dehu Phata, Alandi, Pune, Maharashtra 412105", image: "images/mitae.jpg", website: "http://www.mitpune.com" }
+    { name: "MIT Academy of engineering, Alandi", description: "An engineering college in Pune.", courses: "B.Tech, M.Tech", contact: "020-30273400", address: "Dehu Phata, Alandi, Pune, Maharashtra 412105", image: "images/mitae.jpg", website: "https://mitaoe.ac.in" }
 ];
 
 /*
